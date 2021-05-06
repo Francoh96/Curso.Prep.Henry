@@ -1,0 +1,5 @@
+
+ARRAYS
+    Un array es un conjunto o lista de variables que se almacenan en forma de matriz. 
+    Las variables que se almacenan dentro de un array pueden ser cualquier tipo de datos,
+    ya sean Números, string, funciones, null o hasta otro array. Dentro de un array los elementos se separan con una coma ','.
