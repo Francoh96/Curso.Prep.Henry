@@ -1,0 +1,19 @@
+Objetos
+Propiedades
+Métodos
+Bucle for…in
+Notación de puntos vs notación de corchetes
+
+Objetos: Son contenedores de distintos datos de una misma variable, contienen mucha información sobre una sola cosa.
+         Se inicializan usando llaves {}.
+
+Propiedades: Son las variables asociadas al objeto, son caracteristicas propias de dicho objeto.
+
+Métodos: Son las funciones guardadas en un objeto y que nos brindan servicios durante la ejecución del programa.
+         Determinan el comportamiento del objeto cuando recibe un mensaje.
+
+Bucle for - in: Su función es la de recorrer un objeto pasando por cada una de sus propiedades para actuar en ellas.
+
+Notación de puntos vs notación de corchetes : Son las dos maneras posibles de acceder a las propiedades o funciones de un objeto.
+                La diferencia es que con los corchetes se puede acceder a propiedades que tienen un espacio no permitido en la
+                notación de puntos. Se escriben de la siguiente forma: cursoHenry.homework  cursoHenry[homework]().
