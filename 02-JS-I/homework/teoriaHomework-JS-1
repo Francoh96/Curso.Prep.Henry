@@ -1,0 +1,24 @@
+
+-Variables
+-Strings
+-Funciones (argumentos, return)
+-Declaraciones if
+-Valores booleanos (true, false)
+
+
+
+Variable: Una variable es un contenedor donde almacenamos valores que usaremos luego. Se le puede asignar un valor usando el signo .
+          Se pueden declarar de tres formas, donde se utilizará var, let o const segun corresponda.
+
+Strings: Las strings son una cadena de caracteres. Son un conjunto de letras, palabras o números que siempre se escriben entre comillas "".
+
+Funciones: Las funciones son el conjunto de instrucciones o el procedimiento por el cual se realiza una tarea especifica. Tiene que
+           tener alguna entrada y devolver una salida o resultado.
+           Los argumentos de una función son los valores que se ingresan al llamarla.
+           El return se utiliza cuando se quiere devolver el valor de la funcion en la que se encuentra o cuando queremos que la
+           función deje de ejecutarse.
+
+Declaraciones if: El if se utiliza para evaluar una condición. Es decir, si se cumple la condición que se le indica ejecutará el mensaje
+                  específico que se le indicó; y un texto, tambien ya predeterminado, cuando la condicion no se cumple.
+
+Valores Booleanos: Es un tipo de datos que representa un valor de verdad. Los valores posibles de un dato booleano son true o false.
