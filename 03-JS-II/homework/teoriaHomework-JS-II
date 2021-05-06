@@ -1,0 +1,14 @@
+
+for
+&&, ||, !
+
+for: El bucle for se utiliza para repetir un bloque de codigo mcuhas veces. 
+     Está compuesto por tres partes:
+        La variable que va a usar para contar la cantidad de repeticiones que va haciendo
+        La condicion de frenado de la ejecución
+        Y la aclaración de como queres que se vaya incrementando el valor
+
+&&, ||, ! son operadores lógicos.
+    && o 'Y' conecta dos expresiones y devuleve true solo si las ambas expresiones son true. Cualquier otra combinacion es false.
+    || o 'O' conecta dos expresiones y devuelve false si las dos son false. Cualquier otra combinación es true.
+    ! invierte el resultado lógico 
