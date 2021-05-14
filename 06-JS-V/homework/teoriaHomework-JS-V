@@ -1,0 +1,13 @@
+
+prototype
+Constructors (de Clases)
+
+prototype: El protoype es la forma que tienen las clases para establecer un método una vez y poder dar acceso a cada objeto de 
+           esa clase a esos métodos.
+           Cuando pedimos a un objeto una propiedad que no tiene la busca en su proto. En palabras mas fáciles, decimos que el 
+           prototype es otro objeto que se utiliza como un contenedor de propiedades alternativas.
+           Se utiliza de la siguiente manera: this.objeto.
+
+Constructors (de clases): Un constructor inicializa un objeto cuando se crea. Tiene el mismo nombre que su clase y sintácticamente 
+                          es igual a un método. Se utiliza generalmente para dar valores iniciales a las variables definidas por la clase,
+                          y asi asegurarnos que los objetos siempre contengan valores válidos.
